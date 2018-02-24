@@ -1,0 +1,4 @@
+web interface password: justmonika
+
+ssh pi user: pi
+ssh pi password: justmonika
