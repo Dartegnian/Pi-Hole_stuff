@@ -1,5 +1,5 @@
 # WHAT IS A PI-HOLE?
-In layman's terms, a "Pi-hole" is a device connected on a **network** that blocks ads on devices that are connected to it. **It's a network-wide ad blocker**. It's usually a **Raspberry Pi** and it's a "black hole" where adverts get sucked in, hence "Pi-hole."
+**It's a network-wide ad blocker**. In layman's terms, a "Pi-hole" is a device connected on a **network** that blocks ads on devices that are connected to it. It's usually a **Raspberry Pi** and it's a "black hole" where adverts get sucked in, hence "Pi-hole."
 
 Still don't know what a Pi-hole is? Learn more about it here: https://pi-hole.net/
 
